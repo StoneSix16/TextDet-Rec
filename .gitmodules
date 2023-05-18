@@ -1,0 +1,6 @@
+[submodule "HandwrittingRecognition"]
+	path = HandwrittingRecognition
+	url = https://github.com/StoneSix16/HandwrittingRecognition.git
+[submodule "CRAFT-pytorch"]
+	path = CRAFT-pytorch
+	url = https://github.com/StoneSix16/CRAFT-pytorch.git
